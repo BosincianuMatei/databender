@@ -2,7 +2,6 @@
 
 Un instrument creativ în Python care transformă imagini statice folosind caracteristici extrase din fișiere audio, generând lucrări de artă vizuală unice, inspirate de conceptul de sinestezie.
 
-_(Notă: Înlocuiește imaginea de mai sus cu un exemplu real generat de scriptul tău)_
 
 ---
 
