@@ -163,8 +163,6 @@ Rezultatele sunt salvate implicit în directorul `databending_results`. Fiecare 
 |`geometry_databend.png`|Forme geometrice suprapuse peste imagine.|
 |... și multe altele||
 
-Exportă în Foi de calcul
-
 ---
 
 ## 🤝 Contribuții
